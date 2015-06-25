@@ -1,0 +1,21 @@
+{
+  "name": "color-shader-functions",
+  "version": "0.0.1",
+  "description": "toto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superguigui/color-shader-functions.git"
+  },
+  "keywords": [
+    "shader",
+    "color",
+    "glsl",
+    "glslify"
+  ],
+  "author": "Guillaume Gouessan <guillaume.gouessan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superguigui/color-shader-functions/issues"
+  },
+  "homepage": "https://github.com/superguigui/color-shader-functions#readme"
+}
