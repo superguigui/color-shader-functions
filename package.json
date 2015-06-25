@@ -1,7 +1,7 @@
 {
   "name": "color-shader-functions",
   "version": "0.0.1",
-  "description": "toto",
+  "description": "Library of combinable shader color manipulation methods to be used with glslify imports",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/superguigui/color-shader-functions.git"

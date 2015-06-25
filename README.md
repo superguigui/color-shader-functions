@@ -22,7 +22,6 @@ void main() {
   color = vignette(color, 1.4, 2.3, resolution);
   color = bsc(color, 0.8, 0.8, 0.9);
   color = film(color, vUv, time, 2048.0, 0.4, 0.3);
-  color = sepia(color, 0.2);
 
   gl_FragColor = color;
 }
