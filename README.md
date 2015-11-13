@@ -12,9 +12,9 @@ uniform float time;
 varying vec2 vUv;
 
 // Import the methods you need
-#pragma glslify: vignette = require(color-shader-functions/vignette/vignette.glsl)
-#pragma glslify: bsc = require(color-shader-functions/bsc/bsc.glsl)
-#pragma glslify: film = require(color-shader-functions/film/film.glsl)
+#pragma glslify: vignette = require(color-shader-functions/vignette)
+#pragma glslify: bsc = require(color-shader-functions/bsc)
+#pragma glslify: film = require(color-shader-functions/film)
 
 void main() {
   vec4 color = texture2D(tInput, vUv);
