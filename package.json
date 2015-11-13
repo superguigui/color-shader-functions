@@ -1,6 +1,6 @@
 {
   "name": "color-shader-functions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library of combinable shader color manipulation methods to be used with glslify imports",
   "repository": {
     "type": "git",
