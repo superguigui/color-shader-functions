@@ -3,6 +3,13 @@ Color shader functions
 
 These methods are to be used with glslify.
 
+
+## Installation
+With npm, to be used with browserify and glslify transform.
+```bash
+npm install color-shader-functions --save
+```
+
 ## Usage
 ```glsl
 uniform sampler2D tInput;
